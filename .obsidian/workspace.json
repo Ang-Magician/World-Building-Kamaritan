@@ -1,0 +1,474 @@
+{
+  "main": {
+    "id": "15e7560439e98f7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4435a4efce3db42c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14853a247c077508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Begginings/Creation Eon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Creation Eon"
+            }
+          },
+          {
+            "id": "17d720dc0e1fe036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History of Alimyo/Warring Dominions Period/The Escape to the Trees.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Escape to the Trees"
+            }
+          },
+          {
+            "id": "ef578457cc18fa0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History of Alimyo/Warring Dominions Period/Age of The Splintered Roots.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Age of The Splintered Roots"
+            }
+          },
+          {
+            "id": "a29d8e9f8b91a3fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History of Alimyo/Warring Dominions Period/Age of The Splintered Roots.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Age of The Splintered Roots"
+            }
+          },
+          {
+            "id": "432e02aeb659cc1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History of Alimyo/Warring Dominions Period/Tree Dominions Unification Saga.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tree Dominions Unification Saga"
+            }
+          },
+          {
+            "id": "a6c1d1ac2cab3afd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aklasi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aklasi"
+            }
+          },
+          {
+            "id": "7dfc29e63839fffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History of Alimyo/Warring Dominions Period/Siagu vs Maktan War.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Siagu vs Maktan War"
+            }
+          },
+          {
+            "id": "e06c2a6e4e5b6b94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History of Alimyo/Warring Dominions Period/Maktan and Sugbu's March to the Land of Salvation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maktan and Sugbu's March to the Land of Salvation"
+            }
+          },
+          {
+            "id": "eea1f1c4f8a3e660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History of Alimyo/Warring Dominions Period/First Unification of the Warring Tree Dominions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First Unification of the Warring Tree Dominions"
+            }
+          },
+          {
+            "id": "eb6e352527078f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Latest Alimyo Government.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Latest Alimyo Government"
+            }
+          },
+          {
+            "id": "13ceeb38fd0789d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zula Maktan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zula Maktan"
+            }
+          },
+          {
+            "id": "c1f8958a3d715a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Levels of Thinking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Levels of Thinking"
+            }
+          },
+          {
+            "id": "24f7274dd6fe8215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kali (experimenta).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kali (experimenta)"
+            }
+          },
+          {
+            "id": "83cf360767d845a8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "331aa807d66ae671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "db5489eee7306ebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "1dbe7cb259cde4c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History of Alimyo/History of Alimyo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "History of Alimyo"
+            }
+          },
+          {
+            "id": "ec00bbfffc89a57d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History of Alimyo/History of Alimyo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "History of Alimyo"
+            }
+          },
+          {
+            "id": "6de8ee8f5d5a8098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History of Alimyo/History of Alimyo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "History of Alimyo"
+            }
+          },
+          {
+            "id": "faf3c5c27e9fef6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History of Alimyo/Warring Dominions Period/Age of The Splintered Roots.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Age of The Splintered Roots"
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b68f5caba52be2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "927b6c56a1db5607",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16d63af32bd1067c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "00c923ad6f5a1620",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4ef72688eb0c4b8c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68e23195c52016c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f3f86db9e706cc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45f5b2d54a6749f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "History of Alimyo/Warring Dominions Period/Maktan and Sugbu vs Tasinulok and Parisunggan War.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Maktan and Sugbu vs Tasinulok and Parisunggan War"
+            }
+          },
+          {
+            "id": "f0ec455ded0aa669",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "History of Alimyo/Warring Dominions Period/Maktan and Sugbu vs Tasinulok and Parisunggan War.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Maktan and Sugbu vs Tasinulok and Parisunggan War"
+            }
+          },
+          {
+            "id": "197b5fef8004bf8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ea8011bdbef630c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "History of Alimyo/Warring Dominions Period/Maktan and Sugbu vs Tasinulok and Parisunggan War.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Maktan and Sugbu vs Tasinulok and Parisunggan War"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "83cf360767d845a8",
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled.canvas",
+    "2025-05-08.md",
+    "Kali (in magic).md",
+    "Kali (experimenta).md",
+    "Levels of Thinking.md",
+    "Zula Maktan.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Timeline.md",
+    "Sugbu Dominion.md",
+    "Nayawa Maktan.md",
+    "Moving Cover.md",
+    "Maktan Dominion.md",
+    "Latest Alimyo Government.md",
+    "Integrate later.md",
+    "Illustrations.md",
+    "Culture stuff.md",
+    "Templates/Event With Info.md",
+    "History of Alimyo/Warring Dominions Period/Age of The Splintered Roots.md",
+    "Templates",
+    "Alimyo War Tactics.md",
+    "Aklasi.md",
+    "7 emotions that drive civilization.md",
+    "History of Alimyo/Warring Dominions Period/First Unification of the Warring Tree Dominions.md",
+    "History of Alimyo/Warring Dominions Period/Aklasi.md",
+    "History of Alimyo/Warring Dominions Period/Maktan and Sugbu's March to the Land of Salvation.md",
+    "People",
+    "History of Alimyo/Datu Period",
+    "History of Alimyo/Triumvirate Period",
+    "History of Alimyo/Warring Dominions Period",
+    "Begginings",
+    "History of Alimyo",
+    "Populations",
+    "Places And Geographies",
+    "Historical Events"
+  ]
+}
